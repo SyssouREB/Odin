@@ -1,0 +1,5 @@
+Rapoort de scéance, jeudi 20 décembre 2018, REBUFFEL Aymeric
+  -Chez moi:
+J'ai branché les moteurs et les ai fait foncitionner normalement. (voir le programme "test_2moteurs")
+  -En scéance de td:
+J'ai tenté de faire fonctionner les encodeurs pour imposer une vitesse précise sur les deux moteurs
