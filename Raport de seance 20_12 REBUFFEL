@@ -3,7 +3,11 @@ Raport de séance, jeudi 20 décembre 2018, REBUFFEL Aymeric
 J'ai branché les moteurs et les ai fait foncitionner normalement. (voir le programme "test_2moteurs")
   -En scéance de td:
 J'ai tenté de faire fonctionner les encodeurs pour imposer une vitesse précise sur les deux moteurs. Je n'ai pas réussis. 
-Raison principal: je n'ai pas compris le code sur lequel je me suis basé. (également présent sous le nom "exemple_encodeur").
+Raison principal: je n'ai pas compris le principe globale. Je ne comprends pas comment est censé marcher l'encodeur ni même comment
+il permet de fixer le nombre de tour des moteurs. Tous les sites et exemples que j'ai vu ne présente le fonctionnement que pour un seul 
+moteur mais ne spécifie pas comment modifier pour le faire marcher sur 2. Globalement, je ne comprends pas comme l'encodeur marche pour un moteur
+ni comment l'utiliser pour faire tourner deux moteurs à l'exact même vitesse.
 
-A travailler pour la prochaine fois: comprendre ce code (ou en prendre un autre et comprendre cet autre code). 
+A travailler pour la prochaine fois: comprendre le code "exemple_encodeur" (ou en prendre un autre et comprendre cet autre code) 
+ainsi que le principe de fonctionnement de l'encodeur. 
 Faire tourner les deux moteurs à la même vitesse
