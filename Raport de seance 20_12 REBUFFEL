@@ -1,0 +1,9 @@
+Raport de séance, jeudi 20 décembre 2018, REBUFFEL Aymeric
+  -Chez moi:
+J'ai branché les moteurs et les ai fait foncitionner normalement. (voir le programme "test_2moteurs")
+  -En scéance de td:
+J'ai tenté de faire fonctionner les encodeurs pour imposer une vitesse précise sur les deux moteurs. Je n'ai pas réussis. 
+Raison principal: je n'ai pas compris le code sur lequel je me suis basé. (également présent sous le nom "exemple_encodeur").
+
+A travailler pour la prochaine fois: comprendre ce code (ou en prendre un autre et comprendre cet autre code). 
+Faire tourner les deux moteurs à la même vitesse
