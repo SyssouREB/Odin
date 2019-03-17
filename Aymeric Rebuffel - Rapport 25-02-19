@@ -1,4 +1,0 @@
-  Pour cette scéance, le but était de continuer à avancer sur la communication bluetooth. D'avoir les modules HC05 et HC06 capable de discuter. 
-  Le but a était atteint. Le module HC05 a bien était initialisé en maître, le module HC06 a bien était initialisé en esclave, et les deux sont bien liés. 
-  Les difficultés majeurs encontrées étaient en réalité bien mineurs. Majoritairement, des érreurs de branchement, où de code dans les programme test. Mais ce qui a bloqué le plus de temps était un problème que je n'avais pas anticipé: un de mes cables était endommagé. Une fois cela réglé il fut assez rapide de connecter les modules. Pour cela, il suffit de suivre les instructions du cours du professeur P. Masson: http://users.polytech.unice.fr/~pmasson/Enseignement/Elements%20de%20robotique%20avec%20arduino%20-%20Communications%20RF%20-%20Projection%20-%20MASSON.pdf, de la page 25 à 34.
-  Pour la prochaine scéance, il faudra fabriquer physiquement la télécomande.
