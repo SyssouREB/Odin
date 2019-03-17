@@ -1,0 +1,5 @@
+Le but de cette scéance était d'avoir une version opérationel mais très provisoire de la forme du robot. Après être au fab lab au cours de la semaine pour utiliser la découpeuse laser pour créer la structure principale en bois, le reste du montage à était efféctué au cours même de la scéance. La forme provisoire est donc:
+-Un plateau en bois rond suffisament grand pour acceuillir au-dessus la carte arduino, le module de pile, ainsi que la carte faisant fonctioner les moteurs.
+-Des supports situés en face l'un de l'autre pour tenir les moteurs.
+Problème principal noté: les supports fournis avec les moteurs ne font pas tenir l'arrière des moteurs. Ainsi Lorsque les roues sont montées et le robot posé au sol, l'arrière des moteurs s'affaisse et les roues se penchent. La solution provisoire à été de les scotcher. Il faudra créer un support en bois supplémentaire pour tenir correctement les moteurs dans la forme finale du robot.
+Avec cette forme provisoire, le robot peut se déplacer et être controler à distance. Cependant, les moteurs tournent à une vitesse très faible, et le robot n'avance quà grand peine. L'origine du problème n'a pas encore été diagnostiquée.
